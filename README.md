@@ -1,244 +1,138 @@
-# Awesome-System-Optimization-PC-Performance-Tweaks
-# Awesome-System-Optimization-PC-Performance-Tweaks
+# ⚡ Awesome System Optimization & PC Performance Tweaks
 
-## Top System Optimization & PC Performance Tweaks Ecosystem
+<div align="center">
 
+<img src="./assets/banner.svg" alt="Awesome System Optimization and PC Performance Tweaks Banner" width="100%" />
 
+<p align="center">
+  <strong>Curated Directory of Top SaaS/Proprietary Utilities & Open-Source Tools for Windows, Linux & macOS</strong>
+</p>
 
-**Curated List of SaaS/Proprietary Utilities & Open-Source GitHub Projects**  
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-System-Optimization-PC-Performance-Tweaks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-System-Optimization-PC-Performance-Tweaks?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-System-Optimization-PC-Performance-Tweaks/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-System-Optimization-PC-Performance-Tweaks?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg" alt="License" /></a>
+</p>
 
-*Focused on OS Debloating, Disk Cleanup, Registry & Service Tuning, Privacy Hardening & Gaming Performance*  
-
-**Last updated: November 2026**
-
-
-
-This repository tracks notable **SaaS/proprietary commercial optimizers** and **open-source GitHub projects** for **System Optimization & PC Performance Tweaks**. These tools help users, gamers, and sysadmins reclaim disk space, disable unnecessary background services and telemetry, remove pre-installed bloatware, optimize startup routines, and reduce system latency across Windows, Linux, and macOS.
-
-
-
-**Examples** include itsfatduck/optimizerDuck, BleachBit, WinUtil (ChrisTitusTech), Optimizer (hellzerg), Sophia Script, Stacer, Czkawka, Bulk Crap Uninstaller, CCleaner, IObit Advanced SystemCare, Glary Utilities, AVG TuneUp, Wise Care 365, System Mechanic, Ashampoo WinOptimizer, CleanMyPC, and Razer Cortex.
-
-
-
-**Open-source emphasis**: This list heavily expands on active, auditable open-source Windows/Linux optimizers, debloaters, disk cleaners, and uninstallers — ideal for developers, PC builders, gamers, and privacy-focused users who want transparent performance tuning without bundled adware or telemetry.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[CCleaner (Gen Digital)](https://ccleaner.com)**  
-
-  Widely known proprietary system cleaning and optimization suite offering temporary file cleanup, registry scanning, driver updates, and cloud-managed business editions.
-
-
-
-- **[IObit Advanced SystemCare](https://iobit.com)**  
-
-  Commercial all-in-one Windows PC tune-up utility featuring AI-assisted junk cleaning, startup optimization, registry defragmentation, and real-time performance monitoring.
-
-
-
-- **[Glary Utilities](https://glarysoft.com)**  
-
-  Proprietary Windows maintenance and system optimization toolkit bundling 1-click disk cleanup, registry repair, startup management, and memory optimization.
-
-
-
-- **[AVG TuneUp](https://avg.com)**  
-
-  Commercial PC performance optimization service utilizing patented Sleep Mode technology to suspend background resource hogs alongside automated disk and browser cleanup.
-
-
-
-- **[Wise Care 365](https://wisecleaner.com)**  
-
-  Proprietary Windows registry, disk, and system utility offering real-time system protection, privacy erasure, and hardware optimization.
-
-
-
-- **[System Mechanic (iolo)](https://iolo.com)**  
-
-  Commercial Windows performance suite designed to automatically tune CPU, RAM, and drive settings, remove bloatware, and repair system bottlenecks.
-
-
-
-- **[Ashampoo WinOptimizer](https://ashampoo.com)**  
-
-  Proprietary Windows system maintenance and tweaking suite providing deep customization modules, SSD optimization, privacy controls, and system benchmarking.
-
-
-
-- **[CleanMyPC / CleanMyMac (MacPaw)](https://macpaw.com)**  
-
-  Commercial system cleaning and maintenance suites built to remove system caches, broken registry entries, unused language files, and background extensions.
-
-
-
-- **[Razer Cortex](https://razer.com)**  
-
-  Proprietary game booster and PC optimization utility with cloud-synced game saves that temporarily suspends non-essential Windows processes and frees RAM during gameplay.
-
-
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[optimizerDuck (itsfatduck/optimizerDuck)](https://github.com/itsfatduck/optimizerDuck)**  
-
-  Free, open-source Windows optimization tool written in C# with a modern Fluent UI that applies researched performance tweaks, removes bloatware, disables telemetry/services, and supports one-click revert tracking.
-
-
-
-- **[BleachBit](https://github.com)**  
-
-  Cross-platform, open-source disk space cleaner and privacy manager for Windows and Linux that securely shreds files and clears caches across thousands of applications.
-
-
-
-- **[ChrisTitusTech's Windows Utility (WinUtil)](https://github.com)**  
-
-  Popular open-source PowerShell and WPF utility for Windows 10/11 offering streamlined app installation (`winget`), system debloating, service tweaking, and Windows Update management.
-
-
-
-- **[Optimizer](https://github.com)**  
-
-  Lightweight, open-source configuration and privacy-enhancing utility for Windows designed to disable unnecessary services, telemetry, and background tasks on fresh installations.
-
-
-
-- **[Sophia Script for Windows](https://github.com)**  
-
-  Comprehensive, modular PowerShell module for fine-tuning Windows 10 and Windows 11 settings, privacy policies, scheduled tasks, and UWP apps cleanly and reversibly.
-
-
-
-- **[Win11Debloat](https://github.com)**  
-
-  Simple, lightweight PowerShell script that removes pre-installed bloatware apps, disables telemetry, and declutters the Windows 10/11 interface.
-
-
-
-- **[Bulk Crap Uninstaller (BCUninstaller)](https://github.com)**  
-
-  Open-source bulk program uninstaller for Windows capable of detecting orphaned leftover files, registry keys, and running unattended batch removals.
-
-
-
-- **[Czkawka](https://github.com)**  
-
-  Blazing-fast, multi-threaded cross-platform cleaner written in Rust for finding duplicate files, empty folders, large files, similar images, and broken symlinks.
-
-
-
-- **[Stacer](https://github.com)**  
-
-  Open-source Linux system optimizer and application monitor providing a clean GUI for managing startup apps, cleaning package caches, and monitoring system resources.
-
-
-
-- **[Privatezilla / Bloatynosy](https://github.com)**  
-
-  Open-source Windows 11 debloating and privacy auditing tool that inspects system settings against recommended privacy baselines and removes unwanted features.
-
-
-
-- **[Winhance](https://github.com)**  
-
-  Open-source Windows enhancement utility written in C#/.NET for debloating, customizing system behavior, optimizing power plans, and deploying software packages.
-
-
-
-- **[O&O ShutUp10++ Alternatives / WPD & Privacy.sexy](https://github.com)**  
-
-  Open-source, auditable privacy and security hardening platform generating transparent batch/shell scripts to disable OS telemetry across Windows, macOS, and Linux.
-
-
-
-- **[GameMode (Feral Interactive)](https://github.com)**  
-
-  Open-source daemon and library for Linux that allows games to temporarily request CPU governor, I/O priority, and GPU performance optimizations on demand.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Sysinternals Autoruns](https://microsoft.com)** (Freeware) & **[Startups / Task Manager](https://github.com)** (**System Informer**, formerly Process Hacker) — Deep open-source process, service, and startup diagnostics for Windows.
-
-- **[NVCleanstall](https://techpowerup.com)** (Freeware) & **[DDU (Display Driver Uninstaller)](https://wagnardsoft.com)** — Essential utilities for stripped-down, telemetry-free GPU driver installations.
-
-- **[PrivaZer](https://privazer.com)** (Freeware) & **[Sweeper (KDE)](https://github.com)** — Deep trace and history cleaning utilities for Windows and Linux desktop environments.
-
-- **[Pearcleaner](https://github.com)** & **[AppCleaner](https://freemacsoft.net)** — Open-source macOS app uninstaller (`Pearcleaner`) that removes leftover caches, plists, and orphaned application support files.
-
-- **[Ubuntu Cleaner](https://github.com)** & **[BleachBit CLI](https://github.com)** — Automated package cache, old kernel, and thumbnail cleanup utilities for Debian/Ubuntu distributions.
-
-- **[auto-cpufreq](https://github.com)** & **[TLP](https://github.com)** — Automatic CPU speed, power optimization, and battery life extension daemons for Linux laptops.
-
-
-
-**Frameworks for building custom systems**: Combine **optimizerDuck** or **WinUtil** with **Bulk Crap Uninstaller**, **Czkawka**, and **System Informer** on Windows — or pair **BleachBit**, **auto-cpufreq**, and **GameMode** on Linux — for a transparent, bloat-free system maintenance stack.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS/proprietary or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- System tweakers, registry editors, and service debloaters modify core OS configurations; **always create a System Restore Point or full backup** before applying aggressive optimizations.
-
-- Disabling certain Windows services (such as Windows Update, Defender, or Xbox services) may break dependent applications or reduce system security if configured improperly.
-
-
+</div>
 
 ---
 
+## 📌 Table of Contents
+- [📖 Overview & SEO Summary](#-overview--seo-summary)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Proprietary Utilities](#-saas--proprietary-utilities)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Recommended Optimization Stacks](#️-recommended-optimization-stacks)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Safety & Disclaimer](#️-safety--disclaimer)
 
+---
 
-**Made for PC enthusiasts, gamers, sysadmins, and open-source developers.**  
+## 📖 Overview & SEO Summary
 
-Let's make system optimization and PC performance tuning transparent, reversible, and open to everyone.
+Welcome to the definitive guide to **System Optimization, OS Debloating, and PC Performance Tuning**. Whether you are an esports gamer aiming to minimize input latency, a software developer reclaiming gigabytes of disk space, or a system administrator hardening OS privacy baselines, this curated repository indexes battle-tested tools across:
+
+- 🚀 **Windows 10 & 11 Debloating**: Strip telemetry, remove pre-installed bloatware/UWP packages, and disable redundant background services.
+- 🧹 **Deep Disk & Registry Cleaning**: Safely shred residual caches, manage broken uninstalls, and eliminate duplicate files.
+- 🎮 **Gaming Latency & Hardware Optimization**: Apply process priority adjustments, tune CPU governors, configure GPU driver clean installs, and deploy performance power profiles.
+- 🛡️ **Privacy & Telemetry Hardening**: Audit OS telemetry, configure DNS/diagnostic restrictions, and prevent unwanted data transmission.
+
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+The global PC system optimization, cleaner, and utility software market is valued at approximately **$1.8 billion to $2.2 billion**, projected to grow steadily alongside rising demand for gaming hardware tuning, endpoint lifecycle extension, and telemetry-aware privacy configurations. 
+
+The industry demonstrates a **moderately fragmented** market structure: while legacy consumer suites (such as Gen Digital's CCleaner and AVG TuneUp) retain substantial enterprise and retail distribution footprint, the ecosystem faces rapid decentralization driven by power users, gamers, and privacy advocates transitioning toward auditable, community-driven open-source utilities and modular PowerShell frameworks.
+
+---
+
+## 🏢 SaaS & Proprietary Utilities
+
+The table below outlines established commercial and SaaS-enabled system optimization software, sorted descending by estimated parent company scale (annual revenue or market valuation).
+
+| 🏢 Product | 💰 Starting Pricing | 🎁 Free Tier Limit | 📈 Company Scale (Est. Revenue / Valuation) | 🔍 Key Features |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Razer Cortex](https://razer.com)** | $0.00 / free utility (Razer Ecosystem Monetization) | Free forever (100% features free without time limit; hardware ecosystem upsell) | **~$2.1 Billion** (Annual Revenue) | Proprietary game booster that auto-boosts RAM, stops background services, cleans junk files, and syncs cloud saves. |
+| **[CCleaner](https://ccleaner.com)** *(Gen Digital)* | $29.95 / year (Professional 1 PC) | Free forever plan with basic temporary file cleaning & privacy sweeping (no driver updater, auto-cleaning, or scheduled tasks) | **~$3.8 Billion** (Gen Digital Annual Revenue) | Standard disk cleaning, registry check, driver updater, browser privacy clearing, and multi-PC cloud fleet management. |
+| **[AVG TuneUp](https://avg.com)** *(Gen Digital)* | $39.99 / year (1 PC; renews at $69.99/yr) | 30-day full-featured free trial (no credit card required; limited to 30 days) | **~$3.8 Billion** (Gen Digital Annual Revenue) | Patented Sleep Mode technology to suspend resource-heavy background processes, automated registry maintenance, and software uninstaller. |
+| **[System Mechanic](https://iolo.com)** *(RealDefense)* | $39.95 / year (System Mechanic standard) | Free forever version limited to basic disk cleanup and registry repair (no real-time CPU tuning or drive defrag) | **~$100 Million+** (RealDefense Valuation / Annual Rev) | Real-time automated processor tuning (LiveBoost), memory defragmentation, startup optimizer, and bloatware detection. |
+| **[CleanMyMac / CleanMyPC](https://macpaw.com)** *(MacPaw)* | $39.95 / year or $89.95 one-time purchase | Free trial limited to clearing a maximum of 500 MB of disk junk and 1-time file scanning | **~$60 Million - $90 Million** (Annual Revenue) | High-performance disk cache cleaner, application uninstaller, malware removal scanner, and memory monitoring menu app. |
+| **[Ashampoo WinOptimizer](https://ashampoo.com)** | $30.00 one-time purchase (frequently discounted from $50) | 30-day fully functional free trial (10 days baseline + 20 days upon email registration) | **~$30 Million - $50 Million** (Annual Revenue) | 30+ modular system utilities including SSD defrag, telemetry switcher, registry repair, system benchmarks, and auto-cleaner. |
+| **[IObit Advanced SystemCare](https://iobit.com)** | $19.99 / year (Pro plan for 3 PCs) | Free forever plan limited to basic junk clean and system sweep (no deep registry cleanup, real-time protection, or internet boost) | **~$20 Million - $40 Million** (Annual Revenue) | AI-driven system cleanup, registry defragmentation, startup manager, internet performance acceleration, and scheduled background sweeps. |
+| **[Glary Utilities](https://glarysoft.com)** | $39.95 / year (Pro plan for 3 PCs) | Free forever plan for personal non-commercial use with manual 1-Click Maintenance (no auto-update or automatic background maintenance) | **~$10 Million - $25 Million** (Annual Revenue) | 1-click system diagnostic and cleanup, disk repair, memory management, spyware detection, and context-menu customization. |
+| **[Wise Care 365](https://wisecleaner.com)** | $29.95 / year or $59.95 lifetime (WiseCleaner) | Free forever plan offering basic PC checkup, disk cleaning, and system speedup (no automated silent updates or privacy protection) | **~$5 Million - $15 Million** (Annual Revenue) | Real-time system monitoring, registry cleaner, hardware overview, disk shredder, and startup item controller. |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+Transparent, auditable, and community-maintained optimization suites, system cleaners, and privacy enhancers — **sorted descending by GitHub star count**.
+
+| 💻 Project | ⭐ GitHub Stars | 🎯 Platform / Tech | 📝 Description |
+| :--- | :--- | :--- | :--- |
+| **[WinUtil](https://github.com/ChrisTitusTech/winutil)** | [![GitHub stars](https://img.shields.io/github/stars/ChrisTitusTech/winutil?style=social&color=white)](https://github.com/ChrisTitusTech/winutil/stargazers) | Windows / PowerShell & WPF | Chris Titus Tech's renowned multi-tool to debloat Windows 10/11, tweak background services, manage Windows Updates, and batch-install software via winget. |
+| **[Win11Debloat](https://github.com/Raphire/Win11Debloat)** | [![GitHub stars](https://img.shields.io/github/stars/Raphire/Win11Debloat?style=social&color=white)](https://github.com/Raphire/Win11Debloat/stargazers) | Windows / PowerShell | Lightweight, configurable PowerShell script to strip pre-installed bloatware, disable telemetry, unpin start menu widgets, and streamline Windows 10 and 11. |
+| **[Czkawka](https://github.com/qarmin/czkawka)** | [![GitHub stars](https://img.shields.io/github/stars/qarmin/czkawka?style=social&color=white)](https://github.com/qarmin/czkawka/stargazers) | Cross-Platform / Rust | Multi-threaded disk cleanup utility written in Rust to instantly find and purge duplicate files, empty directories, similar images, zero-byte files, and broken symlinks. |
+| **[Bulk Crap Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller)** | [![GitHub stars](https://img.shields.io/github/stars/BCUninstaller/Bulk-Crap-Uninstaller?style=social&color=white)](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller/stargazers) | Windows / C# & .NET | High-power batch uninstaller with advanced residual file and registry key detection, unattended batch uninstallation, and support for Windows Store apps. |
+| **[Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)** | [![GitHub stars](https://img.shields.io/github/stars/Sycnex/Windows10Debloater?style=social&color=white)](https://github.com/Sycnex/Windows10Debloater/stargazers) | Windows / PowerShell | Pioneer script for removing bloatware, disabling Cortana, stopping edge telemetry, and reverting Windows diagnostic tracking. |
+| **[Optimizer](https://github.com/hellzerg/optimizer)** | [![GitHub stars](https://img.shields.io/github/stars/hellzerg/optimizer?style=social&color=white)](https://github.com/hellzerg/optimizer/stargazers) | Windows / C# | Advanced portable configuration utility to disable Windows telemetry, Cortana, OneDrive, Xbox Live services, tune network latency, and repair common OS bugs. |
+| **[System Informer](https://github.com/winsiderss/systeminformer)** | [![GitHub stars](https://img.shields.io/github/stars/winsiderss/systeminformer?style=social&color=white)](https://github.com/winsiderss/systeminformer/stargazers) | Windows / C | Modern successor to Process Hacker. Extremely powerful tool to inspect running processes, thread priorities, memory consumption, locked files, and network traffic. |
+| **[Pearcleaner](https://github.com/alienator88/Pearcleaner)** | [![GitHub stars](https://img.shields.io/github/stars/alienator88/Pearcleaner?style=social&color=white)](https://github.com/alienator88/Pearcleaner/stargazers) | macOS / Swift | Free, open-source macOS application cleaner that hunts down deep leftover library files, application support plists, and caches. |
+| **[optimizerDuck](https://github.com/itsfatduck/optimizerDuck)** | [![GitHub stars](https://img.shields.io/github/stars/itsfatduck/optimizerDuck?style=social&color=white)](https://github.com/itsfatduck/optimizerDuck/stargazers) | Windows / C# & Fluent UI | Modern Windows performance & privacy optimization tool with one-click toggles, debloating templates, and full reversible tweak tracking. |
+| **[Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows)** | [![GitHub stars](https://img.shields.io/github/stars/farag2/Sophia-Script-for-Windows?style=social&color=white)](https://github.com/farag2/Sophia-Script-for-Windows/stargazers) | Windows / PowerShell | The most comprehensive and granular PowerShell framework for fine-tuning Windows 10 & 11 settings, UI personalization, telemetry lockdown, and tasks. |
+| **[Stacer](https://github.com/oguzhaninan/Stacer)** | [![GitHub stars](https://img.shields.io/github/stars/oguzhaninan/Stacer?style=social&color=white)](https://github.com/oguzhaninan/Stacer/stargazers) | Linux / C++ & Qt | Intuitive Linux system monitor, package manager, and junk cleaner with dashboard tracking CPU, memory, disk I/O, and startup services. |
+| **[auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)** | [![GitHub stars](https://img.shields.io/github/stars/AdnanHodzic/auto-cpufreq?style=social&color=white)](https://github.com/AdnanHodzic/auto-cpufreq/stargazers) | Linux / Python | Automatic CPU speed and power optimizer for Linux laptops and workstations to improve performance dynamically without compromising battery health. |
+| **[BleachBit](https://github.com/bleachbit/bleachbit)** | [![GitHub stars](https://img.shields.io/github/stars/bleachbit/bleachbit?style=social&color=white)](https://github.com/bleachbit/bleachbit/stargazers) | Windows & Linux / Python | Reliable open-source disk cleaner that shreds junk files, clears application caches (Firefox, Chrome, system logs), and cleans unallocated space. |
+| **[Flyoobe](https://github.com/builtbybel/Flyoobe)** | [![GitHub stars](https://img.shields.io/github/stars/builtbybel/Flyoobe?style=social&color=white)](https://github.com/builtbybel/Flyoobe/stargazers) | Windows / C# | Modular Windows customization, debloater, and out-of-box setup tool (formerly Flyby11) designed to streamline initial OS installation and setup. |
+| **[Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools)** | [![GitHub stars](https://img.shields.io/github/stars/LeDragoX/Win-Debloat-Tools?style=social&color=white)](https://github.com/LeDragoX/Win-Debloat-Tools/stargazers) | Windows / PowerShell | Minimalist PowerShell script stack that debloats Windows installations with zero impact on everyday system stability and essential software. |
+| **[privacy.sexy](https://github.com/undergroundwires/privacy.sexy)** | [![GitHub stars](https://img.shields.io/github/stars/undergroundwires/privacy.sexy?style=social&color=white)](https://github.com/undergroundwires/privacy.sexy/stargazers) | Multi-Platform / TS & Shell | Open-source privacy tool generating auditable system scripts to disable diagnostic logging, tracking services, and telemetry across Windows, macOS, and Linux. |
+| **[GameMode](https://github.com/FeralInteractive/gamemode)** | [![GitHub stars](https://img.shields.io/github/stars/FeralInteractive/gamemode?style=social&color=white)](https://github.com/FeralInteractive/gamemode/stargazers) | Linux / C | Daemon and library for Linux enabling gaming applications to request real-time CPU governor, I/O scheduling, and GPU clock optimizations. |
+| **[Bloatynosy](https://github.com/builtbybel/Bloatynosy)** | [![GitHub stars](https://img.shields.io/github/stars/builtbybel/Bloatynosy?style=social&color=white)](https://github.com/builtbybel/Bloatynosy/stargazers) | Windows / C# | Classic Windows debloater by Belim that provides quick assessment pills to identify and disable unnecessary Windows components. |
+| **[SophiApp](https://github.com/Sophia-Community/SophiApp)** | [![GitHub stars](https://img.shields.io/github/stars/Sophia-Community/SophiApp?style=social&color=white)](https://github.com/Sophia-Community/SophiApp/stargazers) | Windows / C# & WPF | Official GUI companion for the Sophia Script engine, rendering an accessible, modern desktop UI for safely applying complex Windows tweaks. |
+| **[TLP](https://github.com/linrunner/TLP)** | [![GitHub stars](https://img.shields.io/github/stars/linrunner/TLP?style=social&color=white)](https://github.com/linrunner/TLP/stargazers) | Linux / Shell & Perl | Feature-rich command-line power management tool for Linux laptops, tuning hardware parameters to dramatically enhance battery longevity. |
+
+---
+
+## 🛠️ Recommended Optimization Stacks
+
+Combine best-of-breed utilities based on your primary workflow:
+
+### 🪟 Windows Power-User Stack
+- **Initial Setup & Tweaks**: [WinUtil](https://github.com/ChrisTitusTech/winutil) + [Optimizer](https://github.com/hellzerg/optimizer)
+- **Deep Uninstalls & Deduplication**: [Bulk Crap Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) + [Czkawka](https://github.com/qarmin/czkawka)
+- **Real-Time Process Management**: [System Informer](https://github.com/winsiderss/systeminformer)
+
+### 🐧 Linux High-Performance Stack
+- **Power & Latency**: [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) + [GameMode](https://github.com/FeralInteractive/gamemode)
+- **System Monitoring & Junk Cleaning**: [Stacer](https://github.com/oguzhaninan/Stacer) + [BleachBit](https://github.com/bleachbit/bleachbit)
+
+### 🍏 macOS Maintenance Stack
+- **Application Cleaning**: [Pearcleaner](https://github.com/alienator88/Pearcleaner)
+- **Disk Deduplication**: [Czkawka](https://github.com/qarmin/czkawka)
+
+---
+
+## 🤝 How to Contribute
+
+Contributions to keep this ecosystem comprehensive, current, and objective are warmly welcomed!
+
+1. 🍴 **Fork** this repository.
+2. 🌿 **Create a branch** for your addition (`git checkout -b add-utility-name`).
+3. ✏️ **Edit** `README.md` following the established table formats (ensure pricing, free tier limits, company revenue/valuation, and star counts with badges are accurate).
+4. 🚀 **Submit a Pull Request** with a concise description of your changes.
+
+---
+
+## ⚠️ Safety & Disclaimer
+
+> [!WARNING]
+> System optimization tools, registry modifiers, and aggressive debloaters modify low-level operating system configurations. Always create a **System Restore Point** or complete disk backup prior to applying system-wide modifications. Disabling critical core services (e.g. Windows Defender, CryptSvc, RPC) can prevent security patches from installing or break system stability.
+
+---
+
+<div align="center">
+  <sub>Maintained for PC builders, gamers, system administrators, and open-source advocates worldwide.</sub>
+</div>
