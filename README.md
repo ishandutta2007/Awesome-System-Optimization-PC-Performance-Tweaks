@@ -9,10 +9,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-System-Optimization-PC-Performance-Tweaks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-System-Optimization-PC-Performance-Tweaks?style=social" alt="GitHub Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-System-Optimization-PC-Performance-Tweaks/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-System-Optimization-PC-Performance-Tweaks?style=social" alt="GitHub Forks" /></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 </div>
@@ -26,6 +29,8 @@
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ Recommended Optimization Stacks](#️-recommended-optimization-stacks)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
+- [📈 Star History](#-star-history)
 - [⚠️ Safety & Disclaimer](#️-safety--disclaimer)
 
 ---
@@ -123,6 +128,24 @@ Contributions to keep this ecosystem comprehensive, current, and objective are w
 2. 🌿 **Create a branch** for your addition (`git checkout -b add-utility-name`).
 3. ✏️ **Edit** `README.md` following the established table formats (ensure pricing, free tier limits, company revenue/valuation, and star counts with badges are accurate).
 4. 🚀 **Submit a Pull Request** with a concise description of your changes.
+
+---
+
+## 💖 Support & Community
+
+Thank you so much for exploring and supporting this curated system optimization resource! If you find this list helpful:
+
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork and share** it with fellow gamers, PC builders, sysadmins, and power users.
+- ☕ **Buy a coffee & sponsor**: If you'd like to support continued maintenance and curation, check out the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-System-Optimization-PC-Performance-Tweaks&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-System-Optimization-PC-Performance-Tweaks&type=date&legend=top-left)
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-System-Optimization-PC-Performance-Tweaks&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-System-Optimization-PC-Performance-Tweaks&type=date&legend=top-left)
 
 ---
 
